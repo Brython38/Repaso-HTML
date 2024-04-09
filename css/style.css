@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    border: ridge 5px;
+    border-radius: 8px;
+    width: 80%;
+}
+
+section{
+    width: 80%;
+    text-align: justify;
+    border: double 5px;
+    border-radius: 5px;
+}
+
+li{
+    width: 90%;
+}
